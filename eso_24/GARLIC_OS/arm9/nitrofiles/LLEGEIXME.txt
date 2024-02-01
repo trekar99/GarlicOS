@@ -1,0 +1,10 @@
+Es tracta del contingut del disc virtual que carrega en la ROM definida pel fitxer NDS
+que es el que conte el projecte executable.
+
+Amb les funcions de la llibreria "libfilesystem.a" (funcions d'acces a fitxers definides
+pel sistema NITRO) es pot accedir al contingut dels fitxers i directoris
+guardats en l'actual directori. 
+
+Als següents fitxers hi ha més informació:
+- "devkitPro/libnds/include/filesystem.h"
+- "devkitPro/examples/nds/filesystem/nitrofs/nitrodir/source/directory.c"
