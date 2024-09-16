@@ -22,7 +22,7 @@ Adicionalmente, se prevé la posibilidad de realizar entrada de información (le
 texto) por medio de un controlador de entrada/salida que permita simular un teclado.
 
 ## Autores
-ProgP: Albert Cañadilla
-ProgM: Gerard Pascual
-ProgG: Jaume Tello
-ProgT: Germán Puerto
+- ProgP: Albert Cañadilla 
+- ProgM: Gerard Pascual
+- ProgG: Jaume Tello
+- ProgT: Germán Puerto
